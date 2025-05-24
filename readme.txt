@@ -1,0 +1,1 @@
+Proiect_Practica->Proiect_Practica->bin->Debug->Proiect_Practica(Application)
