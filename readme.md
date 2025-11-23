@@ -294,14 +294,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - .NET Framework team for robust desktop framework
 - Healthcare professionals for requirements gathering
 
-## Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/medichub](https://github.com/yourusername/medichub)
-
----
-
-**MEDICHUB** - Streamlining Medical Journal Subscription Management
-
-© 2024 MEDICHUB. All rights reserved.
