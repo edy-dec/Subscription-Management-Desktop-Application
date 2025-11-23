@@ -1,4 +1,4 @@
-# MEDICHUB - Medical Journal Subscription Management System
+# Medical Journal Subscription Management System
 
 A comprehensive Windows Forms desktop application designed for managing medical journal subscriptions with advanced data visualization, analytics, and robust data management capabilities.
 
