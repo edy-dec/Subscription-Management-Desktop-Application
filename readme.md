@@ -4,7 +4,7 @@ A comprehensive Windows Forms desktop application designed for managing medical 
 
 ## Overview
 
-MEDICHUB is a professional-grade subscription management system built for healthcare organizations to efficiently track, manage, and analyze medical journal subscriptions. The application provides an intuitive interface with powerful features for subscription lifecycle management, data analytics, and reporting.
+A professional-grade subscription management system built for healthcare organizations to efficiently track, manage, and analyze medical journal subscriptions. The application provides an intuitive interface with powerful features for subscription lifecycle management, data analytics, and reporting.
 
 ## Key Features
 
